@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.exe
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.dll
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\bin\Debug\netcoreapp3.1\AccessModifier.pdb
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.dll
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.pdb
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13312092022\AccessModifier\obj\Debug\netcoreapp3.1\AccessModifier.genruntimeconfig.cache
